@@ -229,7 +229,7 @@ Dersler YouTube'da ücretsiz olarak yayımlanmaktadır.
   pip install gunicorn psycopg2
 ```
 
-7. Whell problemi olması durumunda  yandaki kaynağa gidebilirsiniz (kaynak)[https://stackoverflow.com/questions/34819221/why-is-python-setup-py-saying-invalid-command-bdist-wheel-on-travis-ci]
+7. Whell problemi olması durumunda  yandaki kaynağa gidebilirsiniz [kaynak](https://stackoverflow.com/questions/34819221/why-is-python-setup-py-saying-invalid-command-bdist-wheel-on-travis-ci)
 
 ```
   pip install wheel
